@@ -1,0 +1,23 @@
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/RPGame.exe.mdb
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/RPGame.exe
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/obj/x86/Debug/RPGame.exe
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/obj/x86/Debug/RPGame.exe.mdb
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/sfmlnet-audio-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/sfmlnet-graphics-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/sfmlnet-system-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/sfmlnet-window-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/csfml-audio-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/csfml-graphics-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/csfml-system-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/csfml-window-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Map/base_out_atlas.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Map/build_atlas.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Map/map.csv
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Map/map.tmx
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Map/map_Warstwa Kafelków 2.csv
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Map/obj_misk_atlas.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Map/terrain_atlas.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Sprites/char.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Sprites/chicken_walk.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Fonts/Rolande.ttf

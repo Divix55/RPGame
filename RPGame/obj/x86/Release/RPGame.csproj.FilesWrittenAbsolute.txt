@@ -1,0 +1,22 @@
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/csfml-audio-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/csfml-graphics-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/csfml-system-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/csfml-window-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/RPGame.exe
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/obj/x86/Release/RPGame.exe
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/sfmlnet-audio-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/sfmlnet-graphics-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/sfmlnet-system-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/sfmlnet-window-2.dll
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/bin/Debug/sfmlnet-graphics-2.dll.config
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/sfmlnet-graphics-2.dll.config
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/Map/base_out_atlas.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/Map/build_atlas.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/Map/map.csv
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/Map/map.tmx
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/Map/map_Warstwa Kafelków 2.csv
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/Map/obj_misk_atlas.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/Map/terrain_atlas.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/Sprites/char.png
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Release/Sprites/chicken_walk.png
