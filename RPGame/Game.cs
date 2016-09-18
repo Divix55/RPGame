@@ -14,9 +14,14 @@ namespace RPGame
 			window.SetFramerateLimit(60);
 			window.Closed += Window_Closed;
 
-			Map map1 = new Map();
+			Map map1 = new Map(100, 100, new System.IO.StreamReader("Map/map.csv"), new Texture("Map/terrain_atlas.png"));
+			Map map2 = new Map(100, 100, new System.IO.StreamReader("Map/map2.csv"), new Texture("Map/terrain_atlas.png"));
+
 			View view = new View(new Vector2f(0, 0), new Vector2f(800, 600));
 			Player player = new Player();
+			player.xpos = 500;
+			player.ypos = 500;
+
 			Chicken kurczak = new Chicken();
 			kurczak.Waypoints = new List<Waypoint>();
 
@@ -35,13 +40,13 @@ namespace RPGame
 
 				kurczak.Update(deltaTime);
 				player.Update(deltaTime);
-
 				view.Center = new Vector2f(player.xpos, player.ypos);
 				window.SetView(view);
 
 				window.Clear();
 
 				map1.Draw(window);
+				map2.Draw(window);
 				kurczak.Draw(window);
 				player.Draw(window);
 

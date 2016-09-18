@@ -11,16 +11,18 @@ namespace RPGame
 	class Map
 	{
 		Sprite[,] tiles;
-		int mapwidth = 100;
-		int mapheight = 100;
+		int drawmapwidth;
+		int drawmapheight;
 
-		public Map()
+		public Map(int mapwidth, int mapheight, StreamReader reader, Texture texture)
 		{
+			drawmapwidth = mapwidth;
+			drawmapheight = mapheight;
+
 			int tilemapwidth = 32;
 			int tilemapheight = 32;
 			int tilesize = 32;
 
-			Texture texture = new Texture("Map/terrain_atlas.png");
 			Sprite[] tilemap = new Sprite[tilemapheight * tilemapwidth];
 
 			for (int y = 0; y < tilemapheight; y++)
@@ -33,7 +35,6 @@ namespace RPGame
 			}
 
 			tiles = new Sprite[mapwidth, mapwidth];
-			StreamReader reader = new StreamReader("Map/map.csv");
 
 			for (int y = 0; y < mapheight; y++)
 			{
@@ -53,9 +54,9 @@ namespace RPGame
 
 		public void Draw(RenderWindow window)
 		{
-			for (int y = 0; y < mapheight; y++)
+			for (int y = 0; y < drawmapheight; y++)
 			{
-				for (int x = 0; x < mapwidth; x++)
+				for (int x = 0; x < drawmapwidth; x++)
 				{
 					window.Draw(tiles[x, y]);
 				}

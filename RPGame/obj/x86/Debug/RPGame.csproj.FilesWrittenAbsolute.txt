@@ -21,3 +21,4 @@
 /Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Sprites/char.png
 /Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Sprites/chicken_walk.png
 /Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Fonts/Rolande.ttf
+/Users/macbookssd/Documents/Projects/RPGame/RPGame/bin/Debug/Map/map2.csv

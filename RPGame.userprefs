@@ -1,15 +1,16 @@
-﻿<Properties StartupItem="RPGame/RPGame.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RPGame/Game.cs">
+﻿<Properties StartupConfiguration="{35A27C9F-B0EB-46BA-A247-9C11A5320B2D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stan elementu RPGame">
     <Files>
-      <File FileName="RPGame/Game.cs" Line="48" Column="25" />
-      <File FileName="RPGame/Menu.cs" Line="48" Column="25" />
-      <File FileName="RPGame/Program.cs" Line="16" Column="6" />
+      <File FileName="RPGame/Game.cs" Line="25" Column="36" />
+      <File FileName="RPGame/Menu.cs" Line="45" Column="6" />
+      <File FileName="RPGame/Program.cs" Line="11" Column="4" />
       <File FileName="RPGame/Waypoint.cs" Line="1" Column="1" />
-      <File FileName="RPGame/Player.cs" Line="18" Column="3" />
-      <File FileName="RPGame/AnimatedCharacterWithAI.cs" Line="21" Column="22" />
+      <File FileName="RPGame/Player.cs" Line="26" Column="5" />
+      <File FileName="RPGame/AnimatedCharacterWithAI.cs" Line="7" Column="52" />
       <File FileName="RPGame/Chicken.cs" Line="1" Column="1" />
       <File FileName="RPGame/Animation.cs" Line="1" Column="1" />
-      <File FileName="RPGame/AnimatedCharacter.cs" Line="1" Column="1" />
+      <File FileName="RPGame/Map.cs" Line="37" Column="43" />
+      <File FileName="Stan elementu RPGame" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

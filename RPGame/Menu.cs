@@ -81,9 +81,16 @@ namespace RPGame
 		{
 			titleText.Position = new SFML.System.Vector2f(250, 50);
 
+			Text text1 = new Text("Arrow - character control", new Font("Fonts/Rolande.ttf"), 30);
+			Text text2 = new Text("Space - action", new Font("Fonts/Rolande.ttf"), 30);
+			text1.Position = new SFML.System.Vector2f(270, 170);
+			text2.Position = new SFML.System.Vector2f(270, 200);
+
 			window.DispatchEvents();
 			window.Clear();
 			window.Draw(titleText);
+			window.Draw(text1);
+			window.Draw(text2);
 		}
 
 		void Window_Closed(object sender, EventArgs e)
